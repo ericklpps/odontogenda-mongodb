@@ -1,0 +1,60 @@
+[{
+  "_id": 1,
+  "paciente_id": 1,
+  "dentista_id": 1,
+  "data": "2025-05-15",
+  "procedimento": "Ajuste de aparelho",
+  "valor": 200,
+  "status": "confirmada",
+  "metodo_pagamento": "Plano de Saúde",
+  "hora": "14:30",
+  "observacoes": "Paciente deve evitar alimentos duros"
+},
+{
+  "_id": 2,
+  "paciente_id": 2,
+  "dentista_id": 2,
+  "data": "2025-05-20",
+  "procedimento": "Tratamento de canal",
+  "valor": 500,
+  "status": "pendente",
+  "metodo_pagamento": "Dinheiro",
+  "hora": "16:00",
+  "observacoes": "Paciente reclamou de dor"
+},
+{
+  "_id": 3,
+  "paciente_id": 3,
+  "dentista_id": 3,
+  "data": "2025-05-25",
+  "procedimento": "Limpeza",
+  "valor": 150,
+  "status": "confirmada",
+  "metodo_pagamento": "Cartão de Crédito",
+  "hora": "09:00",
+  "observacoes": "Paciente pediu polimento adicional"
+},
+{
+  "_id": 4,
+  "paciente_id": 4,
+  "dentista_id": 4,
+  "data": "2025-05-30",
+  "procedimento": "Clareamento",
+  "valor": 300,
+  "status": "confirmada",
+  "metodo_pagamento": "Plano de Saúde",
+  "hora": "11:00",
+  "observacoes": "Paciente deseja clareamento avançado"
+},
+{
+  "_id": 5,
+  "paciente_id": 5,
+  "dentista_id": 5,
+  "data": "2025-06-05",
+  "procedimento": "Implante dentário",
+  "valor": 2000,
+  "status": "pendente",
+  "metodo_pagamento": "Cartão de Crédito",
+  "hora": "10:00",
+  "observacoes": "Paciente precisa de anestesia local"
+}]
