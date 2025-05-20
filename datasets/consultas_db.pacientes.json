@@ -98,7 +98,7 @@
   "_id": 9,
   "nome": "Bianca Torres",
   "telefone": "+55 11 95678-1235",
-  "email": "bianca@exemplo.com",
+  "email": "novoemail@email.com",
   "cpf": "901.234.567-88",
   "cidade": "Manaus",
   "estado": "AM",
@@ -117,4 +117,32 @@
   "cep": "90123-456",
   "plano_saude": "Amil",
   "data_nascimento": "1978-09-25"
+},
+{
+  "_id": {
+    "$oid": "682b7b13b49e05f5ce5c2609"
+  },
+  "nome": "Jonathan",
+  "telefone": "55 11 931409054",
+  "email": "jonathan@email",
+  "cpf": "11122233344",
+  "cidade": "Santos",
+  "estado": "SP",
+  "cep": "0987191",
+  "plano_saude": "America",
+  "data_nascimento": "2003-09-30"
+},
+{
+  "_id": {
+    "$oid": "682b92d302dc2552fe612541"
+  },
+  "nome": "Erick Lopes",
+  "telefone": "1199999999",
+  "email": "erick@email.com",
+  "cpf": "12345678900",
+  "cidade": "São ",
+  "estado": "SP",
+  "cep": "04245600",
+  "plano_saude": "Odontoprev",
+  "data_nascimento": "2003-09-30"
 }]

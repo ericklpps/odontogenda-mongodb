@@ -57,4 +57,74 @@
   "metodo_pagamento": "Cartão de Crédito",
   "hora": "10:00",
   "observacoes": "Paciente precisa de anestesia local"
+},
+{
+  "_id": {
+    "$oid": "682b858f7334cb64760f50b4"
+  },
+  "paciente_id": "1",
+  "dentista_id": "1",
+  "data": "2025-05-20",
+  "procedimento": "Limpeza",
+  "valor": 123456789,
+  "status": "confirmada",
+  "metodo_pagamento": "",
+  "hora": "17:00",
+  "observacoes": "abc"
+},
+{
+  "_id": {
+    "$oid": "682ccbb67bbcdb7b3bb4de5d"
+  },
+  "paciente_id": 1,
+  "dentista_id": 1,
+  "data": "2025-06-01",
+  "procedimento": "Inserir aparelho ",
+  "valor": 500,
+  "status": "pendente",
+  "metodo_pagamento": "Cartão",
+  "hora": "10:30",
+  "observacoes": ""
+},
+{
+  "_id": {
+    "$oid": "682ccbe37bbcdb7b3bb4de5e"
+  },
+  "paciente_id": 2,
+  "dentista_id": 2,
+  "data": "2025-09-12",
+  "procedimento": "Manutenção aparelho",
+  "valor": 250,
+  "status": "confirmada",
+  "metodo_pagamento": "Plano",
+  "hora": "14:45",
+  "observacoes": "Cliente deve trazer antigo aparelho"
+},
+{
+  "_id": {
+    "$oid": "682ccc107bbcdb7b3bb4de5f"
+  },
+  "paciente_id": 3,
+  "dentista_id": 4,
+  "data": "2025-07-23",
+  "procedimento": "Clareamento",
+  "valor": 250,
+  "status": "confirmada",
+  "metodo_pagamento": "Cartão",
+  "hora": "13:10",
+  "observacoes": "Não"
+},
+{
+  "_id": {
+    "$oid": "682ccc657bbcdb7b3bb4de60"
+  },
+  "paciente_id": 5,
+  "dentista_id": 3,
+  "data": "2026-01-01",
+  "procedimento": "Remoção de aparelho",
+  "valor": 600,
+  "status": "pendente",
+  "metodo_pagamento": "Cartão",
+  "hora": "17:30",
+  "observacoes": "Cliente deve trazer algo"
 }]
